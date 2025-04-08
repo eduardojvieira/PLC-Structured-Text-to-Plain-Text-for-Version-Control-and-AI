@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Export To Files",
+        "Desc": "Export to files on disk.",
+        "Icon": "export_to_files.ico",
+        "Path": "script_export_to_files.py",
+        "Params": []
+    },
+    {
+        "Name": "Import From Files",
+        "Desc": "Import from files on disk.",
+        "Icon": "import_from_files.ico",
+        "Path": "script_import_from_files.py",
+        "Params": []
+    },
+    {
+        "Name": "Save As Template",
+        "Desc": "Save as template.",
+        "Icon": "blank_folder.ico",
+        "Path": "script_save_as_template.py",
+        "Params": []
+    },
+    {
+        "Name": "Update From Template",
+        "Desc": "Update from template.",
+        "Icon": "update_from_template.ico",
+        "Path": "script_update_from_template.py",
+        "Params": []
+    }
+]
